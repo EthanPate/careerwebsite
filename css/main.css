@@ -1,1 +1,14 @@
-kjnjk
+h1 {
+    color: green;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.main-content {
+	width: 80%;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 75px;
+}
